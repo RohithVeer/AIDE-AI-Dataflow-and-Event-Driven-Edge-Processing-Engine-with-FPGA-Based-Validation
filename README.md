@@ -175,4 +175,3 @@ AIDE demonstrates a complete **silicon-to-system workflow**, combining:
 
 ---
 
-##  Status
